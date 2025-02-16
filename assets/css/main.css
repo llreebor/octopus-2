@@ -499,6 +499,10 @@ h5 {
   font-size: 30px;
   line-height: 120%;
 }
+.services__btn {
+  margin: 0 auto;
+  margin-top: 60px;
+}
 
 /* Choose */
 .choose__container {
